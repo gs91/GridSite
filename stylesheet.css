@@ -1,5 +1,4 @@
 body {
-  margin: 40px;
 }
 
 .container {
@@ -16,7 +15,7 @@ body {
   color: #fff;
   border-radius: 5px;
   padding: 20px;
-  font-size: 1em;
+  font-size: 1.5em;
 }
 
 .a {
